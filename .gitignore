@@ -1,4 +1,14 @@
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nb-configuration.xml
+
 *.class
+*.swp
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
