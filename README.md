@@ -1,8 +1,6 @@
 # fbcmd4j
 Evidencia para la materia Computación  en Java.
 
-Evidencia para la materia Computación en Java.
-
 ## Instalación
 No disponible actualmente
 
