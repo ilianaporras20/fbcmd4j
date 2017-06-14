@@ -1,8 +1,8 @@
 # fbcmd4j
-Cliente de Facebook para el curso Computación en Java
+Evidencia de Computacion Java
 
 ## Instalación
-1. Clonar repositorio `git clone https://github.com/CesarCavazos97/fbcmd4j`
+1. Clonar repositorio `git clone https://github.com/ilianaporras20/fbcmd4j`
 2. Abrir Eclipse 
 3. Abrir proyecto `File -> Import -> Existing Projects into Workspace`
 4. Seleccionar la carpeta raíz donde se clonó el proyecto
@@ -39,7 +39,7 @@ Puesto que la aplicación creada en facebook esta en modo de debug favor de cont
 2. Escribir el link deseado.
 
 ## Créditos
-- Cesar Mauricio Cavazos Rodriguez 2683453
+- Iliana Aracely Porras Rico 2686254
 
 ## Licencia
 El código está disponible bajo la licencia **GNU GPL-3.0**
