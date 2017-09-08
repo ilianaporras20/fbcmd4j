@@ -39,7 +39,8 @@ Puesto que la aplicación creada en facebook esta en modo de debug favor de cont
 2. Escribir el link deseado.
 
 ## Créditos
-- Iliana Aracely Porras Rico 2686254
+- Iliana Aracely Porras Rico 
+- Matricula 2686254
 
 ## Licencia
 El código está disponible bajo la licencia **GNU GPL-3.0**
